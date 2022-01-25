@@ -10,7 +10,7 @@
 ***This whole sentence is bold and italics***
 
 This is a quote:
-> "Death is nothing, but to live ingloriously and defeated is to die daily"
+> "Death is nothing, but to live ingloriously and defeated is to die daily" -Napoleon Bonaparte 
 
 Here is a list of the best ice cream flavors:
 - Chocolate
